@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/authatication/static/css/main.1c4eb426.css",
+    "main.js": "/authatication/static/js/main.76805bfa.js",
+    "static/js/787.eb852399.chunk.js": "/authatication/static/js/787.eb852399.chunk.js",
+    "index.html": "/authatication/index.html",
+    "main.1c4eb426.css.map": "/authatication/static/css/main.1c4eb426.css.map",
+    "main.76805bfa.js.map": "/authatication/static/js/main.76805bfa.js.map",
+    "787.eb852399.chunk.js.map": "/authatication/static/js/787.eb852399.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c4eb426.css",
+    "static/js/main.76805bfa.js"
+  ]
+}
